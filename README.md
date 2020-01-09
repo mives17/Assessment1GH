@@ -14,5 +14,5 @@ This is the main class that is run in the more advanced agent-based model. Again
 # agentframework.py
 This is the agent class which runs alongside Ass1.py 
 
-#LICENSE
+# LICENSE
 Add an open source license
