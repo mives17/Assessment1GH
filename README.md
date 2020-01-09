@@ -16,3 +16,6 @@ This is the agent class which runs alongside Ass1.py
 
 # LICENSE
 Add an open source license
+
+
+NB. It is recommended to run the files in Spyder(Anaconda 3) version 3.7.0
